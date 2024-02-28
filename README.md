@@ -12,6 +12,7 @@
 
 - 9:45 - 10:30 AM
 - Led by Tobin McGilligan, Project Manager
+- [Slides](https://docs.google.com/presentation/d/16Kx-v8USrPVzpAU6SPcMfb3rDuZ27qLxS_-pKT7rFrs/edit?usp=sharing)
 
 ### Low-Code Spatial Analytics
 
