@@ -43,7 +43,7 @@
 
 - 4:30 - 5 PM
 - Led by Kira Gawlak, Enterprise Customer Success Manager
-- [Slides](https://docs.google.com/presentation/d/1zsn2ldTZqgPz71wuWHsjoiPd_ISnUXw8cqbsXwvitFU/edit#slide=id.g1535d17159c_7_153)
+- [Slides](https://docs.google.com/presentation/d/1z4VjI1RYUSx04KtuAKg_S97Rzv1Ib6ccu01FKmiRzaE/edit?usp=sharing)
 
 ## After-party
 
