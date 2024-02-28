@@ -38,6 +38,7 @@
 
 - 3 - 4:30 PM
 - Led by Matt Forrest, Field CTO
+- [Slides](https://docs.google.com/presentation/d/1rhwFiVQxvGV9yR1vhyuMI9EXYb99kmYNIw8isKtSCuo/edit?usp=sharing)
 
 ### Data Visualization Clinic
 
